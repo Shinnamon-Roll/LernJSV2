@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+* {
+    color: white;
+}
+
+.botton {
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid orange;
+}
+.botton:hover {
+    color: white;
+    background-color: rgb(193, 126, 0);
+}
